@@ -1,0 +1,15 @@
+---
+
+id: ArmyValueCalculatorMod                       # The mod's id. This should not change over the lifetime of the mod.
+name: "Army Value Calculator Mod"                  # The mod's name. This is looked up in the language string yaml configuration.
+author: "Robotos"
+description: "After every taken action, the mod will display army value of all players in the bottom left corner of the screen." # The mod's description. This is looked up in the language string yaml configuration.
+# remove:                             # Assets which are removed by the mod.
+#   commander:                        # Commanders
+#     - mercia                        #   Remove commander Mercia. Matches the id in the commander configuration.
+#   unitClass:                        # Unit types
+#     - soldier                       #   Remove the soldier unit. Matches the id in the unit class yaml configuration.
+#   faction:                          # Factions
+#     - felheim                       #   Removes the Felheim faction along with all Felheim commanders. Matches the id of the faction configuration.
+
+...
